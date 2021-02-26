@@ -1,6 +1,6 @@
 # Javax persistance API and MySQL  database pattern
 https://www.youtube.com/watch?v=jB2uSJX7jnM&feature=emb_title&ab_channel=IntelliJIDEAbyJetBrains
-## persistance.xml
+## persistence.xml
 ```xml
         <properties>
             <property name="javax.persistence.cj.jdbc.driver" value="com.mysql.jdbc.Driver" />
