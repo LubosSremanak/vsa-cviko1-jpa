@@ -1,4 +1,5 @@
 # Javax persistance API and MySQL  database pattern
+https://www.youtube.com/watch?v=jB2uSJX7jnM&feature=emb_title&ab_channel=IntelliJIDEAbyJetBrains
 ## persistance.xml
 ```xml
         <properties>
